@@ -1,19 +1,8 @@
 ---
-title: "This is the pages/project/index page title"
+title: "ProjectStory"
 ---
 
-This is a Quarto website. This pages/project/index.qmd file could very well contain all of your plots and your entire data story if your goal is present such a story linearly. If so, you can remove teh content needed for the pages/page01.qmd file and adjust your _quarto.yml file to remove the Drop down tab from the navbar (left). If your story is linear, just be careful to arrange your headers, plots, and written content in the order they should appear. 
-
-## This is a header
-
-With content ... 
-
-### And a sub-header 
-
-And more content ... 
-
-### And a code block 
-
+quarto preview
 ```{r, loading-libraries-and-functions}
 #| message: false
 #| warning: false
@@ -126,10 +115,4 @@ save_plot_as_png(
 )
 ```
 
-## Plot Header
 
-![Caption Text](/pages/project/figs/mpg-by-wt-for-cyl.png){width=80% fig-alt="This is alt-text for describing the plot for screen readers ..."}
-
-## Plot Explanation
-
-Blah, blah, blah ...
