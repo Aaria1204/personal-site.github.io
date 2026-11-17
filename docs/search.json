@@ -1,73 +1,59 @@
 [
   {
-    "objectID": "pages/project/page01.html",
-    "href": "pages/project/page01.html",
-    "title": "This is the pages/project/page01.qmd title",
+    "objectID": "pages/project/src/ProjectStory.html",
+    "href": "pages/project/src/ProjectStory.html",
+    "title": "ProjectStory",
     "section": "",
-    "text": "This is a Quarto website. This is a file for a decidated page for your website. This file is only needed if you do not build your website as a single page in pages/index.qmd"
+    "text": "library(tidyverse)\nlibrary(here)\n\nclean_dir &lt;- here(\"pages\", \"project\", \"CleanData\")\ncounty_zori &lt;- read_csv(file.path(clean_dir, \"county_zori_clean.csv\"))"
   },
   {
-    "objectID": "pages/project/page01.html#this-is-a-header",
-    "href": "pages/project/page01.html#this-is-a-header",
-    "title": "This is the pages/project/page01.qmd title",
-    "section": "This is a header",
-    "text": "This is a header\nWith content …\n\nAnd a sub-header\nAnd more content …\nalong with full URL links https://quarto.org/docs/websites or labelled Claremont McKenna College links.\n\n\nAnd a code block"
+    "objectID": "pages/project/src/ProjectStory.html#introduction",
+    "href": "pages/project/src/ProjectStory.html#introduction",
+    "title": "ProjectStory",
+    "section": "Introduction",
+    "text": "Introduction\nIn September 2023, New York City started enforcing Local Law 18, which made most short-term rentals like Airbnb illegal almost overnight. Hosts now have to register with the city, live in the unit, and rent to no more than two guests at a time. Within months, thousands of listings disappeared.\nSupporters hoped those apartments would go back to long-term renters and ease one of the tightest rental markets in the country. This page follows that idea through Zillow’s rent data. I look at how rents moved before and after the law, which parts of the city changed the most, and whether related measures like renter demand and new listings shifted too. Finally, I ask how much of what followed can honestly be credited to the law, and how much would have happened anyway."
   },
   {
-    "objectID": "pages/project/page01.html#plot-header",
-    "href": "pages/project/page01.html#plot-header",
-    "title": "This is the pages/project/page01.qmd title",
-    "section": "Plot Header",
-    "text": "Plot Header"
+    "objectID": "pages/project/src/ProjectStory.html#rents-before-and-after-the-law",
+    "href": "pages/project/src/ProjectStory.html#rents-before-and-after-the-law",
+    "title": "ProjectStory",
+    "section": "1. Rents before and after the law",
+    "text": "1. Rents before and after the law\n\ncounty_zori %&gt;%\n  ggplot(aes(x = date, y = value, color = RegionName)) +\n  geom_line(linewidth = 0.8) +\n  geom_vline(xintercept = as.Date(\"2023-09-01\"), linetype = \"dashed\") +\n  annotate(\"text\", x = as.Date(\"2023-09-01\"), y = max(county_zori$value),\n           label = \"Local Law 18\", hjust = -0.1, size = 3.5) +\n  scale_y_continuous(labels = scales::dollar) +\n  labs(x = NULL, y = \"Typical monthly rent\", color = NULL,\n       title = \"Typical rent by county, 2021 to today\") +\n  theme_minimal()\n\n\n\n\n\n\n\nFigure 1\n\n\n\n\n\nDescription to come: what this chart shows for a general reader."
   },
   {
-    "objectID": "now.html",
-    "href": "now.html",
-    "title": "This is my now.qmd page title",
-    "section": "",
-    "text": "This is a Quarto website."
+    "objectID": "pages/project/src/ProjectStory.html#which-neighborhoods-changed-most",
+    "href": "pages/project/src/ProjectStory.html#which-neighborhoods-changed-most",
+    "title": "ProjectStory",
+    "section": "2. Which neighborhoods changed most?",
+    "text": "2. Which neighborhoods changed most?\nPlaceholder: zip-level map and ranking of NYC zips."
   },
   {
-    "objectID": "now.html#this-is-a-header",
-    "href": "now.html#this-is-a-header",
-    "title": "This is my now.qmd page title",
-    "section": "This is a header",
-    "text": "This is a header\nWith content …\n\nAnd a sub-header\nAnd more content …\nMy Now page\nMy Project page\nGo back home"
+    "objectID": "pages/project/src/ProjectStory.html#did-related-measures-move-too",
+    "href": "pages/project/src/ProjectStory.html#did-related-measures-move-too",
+    "title": "ProjectStory",
+    "section": "3. Did related measures move too?",
+    "text": "3. Did related measures move too?\nPlaceholder: renter demand, new listings, and income needed to rent."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Aaria",
-    "section": "",
-    "text": "I am a … blah blah"
+    "objectID": "pages/project/src/ProjectStory.html#how-much-was-the-law",
+    "href": "pages/project/src/ProjectStory.html#how-much-was-the-law",
+    "title": "ProjectStory",
+    "section": "4. How much was the law?",
+    "text": "4. How much was the law?\nPlaceholder: comparison with nearby suburbs and other big cities."
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Aaria",
-    "section": "Education",
-    "text": "Education\nInstitution | City, State B.A in Degree | start - finish"
+    "objectID": "pages/project/src/ProjectStory.html#summary",
+    "href": "pages/project/src/ProjectStory.html#summary",
+    "title": "ProjectStory",
+    "section": "Summary",
+    "text": "Summary\nPlaceholder: what the data shows, what it can’t show, and the bottom line."
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Aaria",
-    "section": "Experience",
-    "text": "Experience\nOrganization A | Title | start - finish\nOrganization b | Title | start - finish"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "This is the about.qmd page title",
-    "section": "",
-    "text": "This is a Quarto website."
-  },
-  {
-    "objectID": "about.html#this-is-a-header",
-    "href": "about.html#this-is-a-header",
-    "title": "This is the about.qmd page title",
-    "section": "This is a header",
-    "text": "This is a header\nWith content …\n\nAnd a sub-header\nAnd more content …"
+    "objectID": "pages/project/src/ProjectStory.html#data-and-methods",
+    "href": "pages/project/src/ProjectStory.html#data-and-methods",
+    "title": "ProjectStory",
+    "section": "Data and methods",
+    "text": "Data and methods\nAll data comes from Zillow Research (ZORI, ZORDI, new listings, and new renter income needed), filtered to New York City and a set of comparison regions from January 2021 onward. Cleaning code is in src/clean.R."
   },
   {
     "objectID": "pages/project/index.html",
@@ -110,5 +96,75 @@
     "title": "This is the pages/project/index page title",
     "section": "Plot Explanation",
     "text": "Plot Explanation\nBlah, blah, blah …"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "This is the about.qmd page title",
+    "section": "",
+    "text": "This is a Quarto website."
+  },
+  {
+    "objectID": "about.html#this-is-a-header",
+    "href": "about.html#this-is-a-header",
+    "title": "This is the about.qmd page title",
+    "section": "This is a header",
+    "text": "This is a header\nWith content …\n\nAnd a sub-header\nAnd more content …"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Aaria",
+    "section": "",
+    "text": "I am a … blah blah"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Aaria",
+    "section": "Education",
+    "text": "Education\nInstitution | City, State B.A in Degree | start - finish"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Aaria",
+    "section": "Experience",
+    "text": "Experience\nOrganization A | Title | start - finish\nOrganization b | Title | start - finish"
+  },
+  {
+    "objectID": "now.html",
+    "href": "now.html",
+    "title": "This is my now.qmd page title",
+    "section": "",
+    "text": "This is a Quarto website."
+  },
+  {
+    "objectID": "now.html#this-is-a-header",
+    "href": "now.html#this-is-a-header",
+    "title": "This is my now.qmd page title",
+    "section": "This is a header",
+    "text": "This is a header\nWith content …\n\nAnd a sub-header\nAnd more content …\nMy Now page\nMy Project page\nGo back home"
+  },
+  {
+    "objectID": "pages/project/page01.html",
+    "href": "pages/project/page01.html",
+    "title": "This is the pages/project/page01.qmd title",
+    "section": "",
+    "text": "This is a Quarto website. This is a file for a decidated page for your website. This file is only needed if you do not build your website as a single page in pages/index.qmd"
+  },
+  {
+    "objectID": "pages/project/page01.html#this-is-a-header",
+    "href": "pages/project/page01.html#this-is-a-header",
+    "title": "This is the pages/project/page01.qmd title",
+    "section": "This is a header",
+    "text": "This is a header\nWith content …\n\nAnd a sub-header\nAnd more content …\nalong with full URL links https://quarto.org/docs/websites or labelled Claremont McKenna College links.\n\n\nAnd a code block"
+  },
+  {
+    "objectID": "pages/project/page01.html#plot-header",
+    "href": "pages/project/page01.html#plot-header",
+    "title": "This is the pages/project/page01.qmd title",
+    "section": "Plot Header",
+    "text": "Plot Header"
   }
 ]
