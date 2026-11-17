@@ -2,120 +2,64 @@
 title: "Did NYC's Airbnb Crackdown Lower Rents?"
 subtitle: "Tracking the footprint of Local Law 18"
 author: "Aaria Chandwani"
+format:
+  html:
+    code-fold: true
 ---
 
-quarto preview
-```{r, loading-libraries-and-functions}
+```{r}
+#| label: setup
 #| message: false
 #| warning: false
-#| include: false
-
-# libraries and functions
+library(tidyverse)
 library(here)
-library(ggplot2) 
-library(dplyr) 
-source(here("pages", "project", "src", "functions", "save_plot_as_png.R"))
+
+clean_dir <- here("pages", "project", "CleanData")
+county_zori <- read_csv(file.path(clean_dir, "county_zori_clean.csv"))
 ```
 
+## Introduction
 
-```{r, getting-data}
-#| message: false
-#| warning: false
-#| include: false
+In September 2023, New York City started enforcing Local Law 18, which made most short-term rentals like Airbnb illegal almost overnight. Hosts now have to register with the city, live in the unit, and rent to no more than two guests at a time. Within months, thousands of listings disappeared.
 
-# Call script to read/clean/wrangle and write data for later use 
-# if cleaning is not required remove this source() call and ensure
-# that you adjust your {here} path to read in the raw data from 
-# pages/project/data/ (not the cleaned sub-directory)
-#
-# If you are using an API call for accessing your data, your 
-# data_cleaning.R script would involve accessing the data through
-# the api and then saving it locally for reproducibility (see project
-# handout). All data are required to be saved as .Rds files for 
-# preserve space and to maintain data types (which is not true for 
-# .csv files).
+Supporters hoped those apartments would go back to long-term renters and ease one of the tightest rental markets in the country. This page follows that idea through Zillow's rent data. I look at how rents moved before and after the law, which parts of the city changed the most, and whether related measures like renter demand and new listings shifted too. Finally, I ask how much of what followed can honestly be credited to the law, and how much would have happened anyway.
 
-source(here("pages", "project", "src", "data", "data_cleaning.R"))
+## 1. Rents before and after the law
 
-# read data/cleaned data (produced from the above cleaning script)
-mtcars <- readRDS(here("pages", "project", "data", "cleaned", "mtcars_cleaned.Rds"))
+```{r}
+#| label: fig-county-rents
+#| fig-width: 9
+#| fig-height: 5
+county_zori %>%
+  ggplot(aes(x = date, y = value, color = RegionName)) +
+  geom_line(linewidth = 0.8) +
+  geom_vline(xintercept = as.Date("2023-09-01"), linetype = "dashed") +
+  annotate("text", x = as.Date("2023-09-01"), y = max(county_zori$value),
+           label = "Local Law 18", hjust = -0.1, size = 3.5) +
+  scale_y_continuous(labels = scales::dollar) +
+  labs(x = NULL, y = "Typical monthly rent", color = NULL,
+       title = "Typical rent by county, 2021 to today") +
+  theme_minimal()
 ```
 
+*Description to come: what this chart shows for a general reader.*
 
+## 2. Which neighborhoods changed most?
 
-```{r, plot-mpg-by-hp}
-#| echo: false
-#| message: false
-#| warning: false
+*Placeholder: zip-level map and ranking of NYC zips.*
 
-# create plot
-# recommendation: always save plots as png so that you have an easily accessible
-# plot file available for other purpose (slide, sharing, etc.); extracting plots
-# from a webpage manually is more difficult 
-# then embed the png into the webpage 
+## 3. Did related measures move too?
 
-p <- 
-  mtcars |>
-  ggplot(mapping = aes(
-     x = hp, 
-     y = mpg
-     )) +
-  geom_point()
-```
+*Placeholder: renter demand, new listings, and income needed to rent.*
 
+## 4. How much was the law?
 
-```{r, saveplot-mpg}
-#| message: false
-#| warning: false
-#| include: false
+*Placeholder: comparison with nearby suburbs and other big cities.*
 
-# save the plot as a .png file using the save_plot_as_png()
-save_plot_as_png(
-  plot = p,
-  file_name = "mpg-by-hp.png"
-)
-```
+## Summary
 
-## Plot Header
+*Placeholder: what the data shows, what it can't show, and the bottom line.*
 
-![Caption Text](/pages/project/figs/mpg-by-hp.png){width=80% fig-alt="This is alt-text for describing the plot for screen readers ..."}
+## Data and methods
 
-
-## Plot Explanation
-
-Blah, blah, blah ...
-
-
-```{r, plot-mpg-by-wt-for-cyl}
-#| echo: false
-#| message: false
-#| warning: false
-
-# create plot for subset
-p <- 
-  mtcars |>
-  # get only 6 cylinder cars
-  filter(cyl %in% 4:6) |>
-  ggplot(mapping = aes(
-    x = wt, 
-    y = mpg
-    )) +
-  geom_point()
-```
-
-<!-- SAVE PLOT AS PNG -->
-
-```{r, saveplot-cyl-subset}
-#| message: false
-#| warning: false
-#| include: false
-
-# save the plot as a .png file using the save_plot_as_png()
-save_plot_as_png(
-  plot = p,
-  file_name = "mpg-by-wt-for-cyl.png"
-)
-```
-
-
-
+All data comes from Zillow Research (ZORI, ZORDI, new listings, and new renter income needed), filtered to New York City and a set of comparison regions from January 2021 onward. Cleaning code is in `src/Clean.R`.

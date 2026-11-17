@@ -24,6 +24,41 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -161,20 +196,71 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>quarto preview</p>
-<section id="plot-header" class="level2">
-<h2 class="anchored" data-anchor-id="plot-header">Plot Header</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="../../pages/project/figs/mpg-by-hp.png" class="img-fluid figure-img" style="width:80.0%" alt="This is alt-text for describing the plot for screen readers ..."></p>
-<figcaption>Caption Text</figcaption>
+<div class="cell">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyverse)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(here)</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>clean_dir <span class="ot">&lt;-</span> <span class="fu">here</span>(<span class="st">"pages"</span>, <span class="st">"project"</span>, <span class="st">"CleanData"</span>)</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>county_zori <span class="ot">&lt;-</span> <span class="fu">read_csv</span>(<span class="fu">file.path</span>(clean_dir, <span class="st">"county_zori_clean.csv"</span>))</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</details>
+</div>
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>In September 2023, New York City started enforcing Local Law 18, which made most short-term rentals like Airbnb illegal almost overnight. Hosts now have to register with the city, live in the unit, and rent to no more than two guests at a time. Within months, thousands of listings disappeared.</p>
+<p>Supporters hoped those apartments would go back to long-term renters and ease one of the tightest rental markets in the country. This page follows that idea through Zillow’s rent data. I look at how rents moved before and after the law, which parts of the city changed the most, and whether related measures like renter demand and new listings shifted too. Finally, I ask how much of what followed can honestly be credited to the law, and how much would have happened anyway.</p>
+</section>
+<section id="rents-before-and-after-the-law" class="level2">
+<h2 class="anchored" data-anchor-id="rents-before-and-after-the-law">1. Rents before and after the law</h2>
+<div class="cell">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>county_zori <span class="sc">%&gt;%</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(<span class="at">x =</span> date, <span class="at">y =</span> value, <span class="at">color =</span> RegionName)) <span class="sc">+</span></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">linewidth =</span> <span class="fl">0.8</span>) <span class="sc">+</span></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_vline</span>(<span class="at">xintercept =</span> <span class="fu">as.Date</span>(<span class="st">"2023-09-01"</span>), <span class="at">linetype =</span> <span class="st">"dashed"</span>) <span class="sc">+</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">annotate</span>(<span class="st">"text"</span>, <span class="at">x =</span> <span class="fu">as.Date</span>(<span class="st">"2023-09-01"</span>), <span class="at">y =</span> <span class="fu">max</span>(county_zori<span class="sc">$</span>value),</span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>           <span class="at">label =</span> <span class="st">"Local Law 18"</span>, <span class="at">hjust =</span> <span class="sc">-</span><span class="fl">0.1</span>, <span class="at">size =</span> <span class="fl">3.5</span>) <span class="sc">+</span></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_y_continuous</span>(<span class="at">labels =</span> scales<span class="sc">::</span>dollar) <span class="sc">+</span></span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">x =</span> <span class="cn">NULL</span>, <span class="at">y =</span> <span class="st">"Typical monthly rent"</span>, <span class="at">color =</span> <span class="cn">NULL</span>,</span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>       <span class="at">title =</span> <span class="st">"Typical rent by county, 2021 to today"</span>) <span class="sc">+</span></span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_minimal</span>()</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</details>
+<div class="cell-output-display">
+<div id="fig-county-rents" class="quarto-float quarto-figure quarto-figure-center anchored" width="864">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-county-rents-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="page01_files/figure-html/fig-county-rents-1.png" id="fig-county-rents" class="img-fluid figure-img" width="864">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig quarto-uncaptioned" id="fig-county-rents-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1
+</figcaption>
 </figure>
 </div>
+</div>
+</div>
+<p><em>Description to come: what this chart shows for a general reader.</em></p>
 </section>
-<section id="plot-explanation" class="level2">
-<h2 class="anchored" data-anchor-id="plot-explanation">Plot Explanation</h2>
-<p>Blah, blah, blah …</p>
-<!-- SAVE PLOT AS PNG -->
+<section id="which-neighborhoods-changed-most" class="level2">
+<h2 class="anchored" data-anchor-id="which-neighborhoods-changed-most">2. Which neighborhoods changed most?</h2>
+<p><em>Placeholder: zip-level map and ranking of NYC zips.</em></p>
+</section>
+<section id="did-related-measures-move-too" class="level2">
+<h2 class="anchored" data-anchor-id="did-related-measures-move-too">3. Did related measures move too?</h2>
+<p><em>Placeholder: renter demand, new listings, and income needed to rent.</em></p>
+</section>
+<section id="how-much-was-the-law" class="level2">
+<h2 class="anchored" data-anchor-id="how-much-was-the-law">4. How much was the law?</h2>
+<p><em>Placeholder: comparison with nearby suburbs and other big cities.</em></p>
+</section>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p><em>Placeholder: what the data shows, what it can’t show, and the bottom line.</em></p>
+</section>
+<section id="data-and-methods" class="level2">
+<h2 class="anchored" data-anchor-id="data-and-methods">Data and methods</h2>
+<p>All data comes from Zillow Research (ZORI, ZORDI, new listings, and new renter income needed), filtered to New York City and a set of comparison regions from January 2021 onward. Cleaning code is in <code>src/Clean.R</code>.</p>
 
 
 </section>
