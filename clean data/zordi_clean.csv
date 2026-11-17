@@ -1,0 +1,421 @@
+RegionID,SizeRank,RegionName,RegionType,StateName,date,value
+102001,0,United States,country,NA,2021-01-31,86
+102001,0,United States,country,NA,2021-02-28,114
+102001,0,United States,country,NA,2021-03-31,137
+102001,0,United States,country,NA,2021-04-30,157
+102001,0,United States,country,NA,2021-05-31,169
+102001,0,United States,country,NA,2021-06-30,181
+102001,0,United States,country,NA,2021-07-31,187
+102001,0,United States,country,NA,2021-08-31,177
+102001,0,United States,country,NA,2021-09-30,159
+102001,0,United States,country,NA,2021-10-31,141
+102001,0,United States,country,NA,2021-11-30,123
+102001,0,United States,country,NA,2021-12-31,125
+102001,0,United States,country,NA,2022-01-31,140
+102001,0,United States,country,NA,2022-02-28,158
+102001,0,United States,country,NA,2022-03-31,161
+102001,0,United States,country,NA,2022-04-30,166
+102001,0,United States,country,NA,2022-05-31,172
+102001,0,United States,country,NA,2022-06-30,173
+102001,0,United States,country,NA,2022-07-31,161
+102001,0,United States,country,NA,2022-08-31,135
+102001,0,United States,country,NA,2022-09-30,112
+102001,0,United States,country,NA,2022-10-31,93
+102001,0,United States,country,NA,2022-11-30,77
+102001,0,United States,country,NA,2022-12-31,76
+102001,0,United States,country,NA,2023-01-31,87
+102001,0,United States,country,NA,2023-02-28,102
+102001,0,United States,country,NA,2023-03-31,104
+102001,0,United States,country,NA,2023-04-30,106
+102001,0,United States,country,NA,2023-05-31,103
+102001,0,United States,country,NA,2023-06-30,100
+102001,0,United States,country,NA,2023-07-31,93
+102001,0,United States,country,NA,2023-08-31,83
+102001,0,United States,country,NA,2023-09-30,72
+102001,0,United States,country,NA,2023-10-31,64
+102001,0,United States,country,NA,2023-11-30,55
+102001,0,United States,country,NA,2023-12-31,55
+102001,0,United States,country,NA,2024-01-31,65
+102001,0,United States,country,NA,2024-02-29,75
+102001,0,United States,country,NA,2024-03-31,79
+102001,0,United States,country,NA,2024-04-30,81
+102001,0,United States,country,NA,2024-05-31,80
+102001,0,United States,country,NA,2024-06-30,77
+102001,0,United States,country,NA,2024-07-31,71
+102001,0,United States,country,NA,2024-08-31,64
+102001,0,United States,country,NA,2024-09-30,56
+102001,0,United States,country,NA,2024-10-31,49
+102001,0,United States,country,NA,2024-11-30,43
+102001,0,United States,country,NA,2024-12-31,45
+102001,0,United States,country,NA,2025-01-31,53
+102001,0,United States,country,NA,2025-02-28,64
+102001,0,United States,country,NA,2025-03-31,64
+102001,0,United States,country,NA,2025-04-30,60
+102001,0,United States,country,NA,2025-05-31,55
+102001,0,United States,country,NA,2025-06-30,54
+102001,0,United States,country,NA,2025-07-31,48
+102001,0,United States,country,NA,2025-08-31,41
+102001,0,United States,country,NA,2025-09-30,35
+102001,0,United States,country,NA,2025-10-31,31
+102001,0,United States,country,NA,2025-11-30,28
+102001,0,United States,country,NA,2025-12-31,32
+102001,0,United States,country,NA,2026-01-31,39
+102001,0,United States,country,NA,2026-02-28,44
+102001,0,United States,country,NA,2026-03-31,47
+102001,0,United States,country,NA,2026-04-30,50
+102001,0,United States,country,NA,2026-05-31,51
+102001,0,United States,country,NA,2026-06-30,49
+102001,0,United States,country,NA,2026-07-31,47
+102001,0,United States,country,NA,2026-08-31,44
+102001,0,United States,country,NA,2026-09-30,41
+102001,0,United States,country,NA,2026-10-31,38
+394913,1,"New York, NY",msa,NY,2021-01-31,54
+394913,1,"New York, NY",msa,NY,2021-02-28,66
+394913,1,"New York, NY",msa,NY,2021-03-31,77
+394913,1,"New York, NY",msa,NY,2021-04-30,86
+394913,1,"New York, NY",msa,NY,2021-05-31,90
+394913,1,"New York, NY",msa,NY,2021-06-30,99
+394913,1,"New York, NY",msa,NY,2021-07-31,109
+394913,1,"New York, NY",msa,NY,2021-08-31,120
+394913,1,"New York, NY",msa,NY,2021-09-30,126
+394913,1,"New York, NY",msa,NY,2021-10-31,126
+394913,1,"New York, NY",msa,NY,2021-11-30,115
+394913,1,"New York, NY",msa,NY,2021-12-31,120
+394913,1,"New York, NY",msa,NY,2022-01-31,136
+394913,1,"New York, NY",msa,NY,2022-02-28,155
+394913,1,"New York, NY",msa,NY,2022-03-31,164
+394913,1,"New York, NY",msa,NY,2022-04-30,174
+394913,1,"New York, NY",msa,NY,2022-05-31,180
+394913,1,"New York, NY",msa,NY,2022-06-30,181
+394913,1,"New York, NY",msa,NY,2022-07-31,176
+394913,1,"New York, NY",msa,NY,2022-08-31,161
+394913,1,"New York, NY",msa,NY,2022-09-30,144
+394913,1,"New York, NY",msa,NY,2022-10-31,126
+394913,1,"New York, NY",msa,NY,2022-11-30,109
+394913,1,"New York, NY",msa,NY,2022-12-31,107
+394913,1,"New York, NY",msa,NY,2023-01-31,118
+394913,1,"New York, NY",msa,NY,2023-02-28,133
+394913,1,"New York, NY",msa,NY,2023-03-31,134
+394913,1,"New York, NY",msa,NY,2023-04-30,136
+394913,1,"New York, NY",msa,NY,2023-05-31,134
+394913,1,"New York, NY",msa,NY,2023-06-30,130
+394913,1,"New York, NY",msa,NY,2023-07-31,126
+394913,1,"New York, NY",msa,NY,2023-08-31,123
+394913,1,"New York, NY",msa,NY,2023-09-30,117
+394913,1,"New York, NY",msa,NY,2023-10-31,105
+394913,1,"New York, NY",msa,NY,2023-11-30,90
+394913,1,"New York, NY",msa,NY,2023-12-31,90
+394913,1,"New York, NY",msa,NY,2024-01-31,103
+394913,1,"New York, NY",msa,NY,2024-02-29,114
+394913,1,"New York, NY",msa,NY,2024-03-31,114
+394913,1,"New York, NY",msa,NY,2024-04-30,116
+394913,1,"New York, NY",msa,NY,2024-05-31,114
+394913,1,"New York, NY",msa,NY,2024-06-30,112
+394913,1,"New York, NY",msa,NY,2024-07-31,109
+394913,1,"New York, NY",msa,NY,2024-08-31,104
+394913,1,"New York, NY",msa,NY,2024-09-30,99
+394913,1,"New York, NY",msa,NY,2024-10-31,92
+394913,1,"New York, NY",msa,NY,2024-11-30,83
+394913,1,"New York, NY",msa,NY,2024-12-31,87
+394913,1,"New York, NY",msa,NY,2025-01-31,97
+394913,1,"New York, NY",msa,NY,2025-02-28,109
+394913,1,"New York, NY",msa,NY,2025-03-31,102
+394913,1,"New York, NY",msa,NY,2025-04-30,91
+394913,1,"New York, NY",msa,NY,2025-05-31,80
+394913,1,"New York, NY",msa,NY,2025-06-30,82
+394913,1,"New York, NY",msa,NY,2025-07-31,79
+394913,1,"New York, NY",msa,NY,2025-08-31,72
+394913,1,"New York, NY",msa,NY,2025-09-30,65
+394913,1,"New York, NY",msa,NY,2025-10-31,58
+394913,1,"New York, NY",msa,NY,2025-11-30,53
+394913,1,"New York, NY",msa,NY,2025-12-31,56
+394913,1,"New York, NY",msa,NY,2026-01-31,63
+394913,1,"New York, NY",msa,NY,2026-02-28,69
+394913,1,"New York, NY",msa,NY,2026-03-31,74
+394913,1,"New York, NY",msa,NY,2026-04-30,79
+394913,1,"New York, NY",msa,NY,2026-05-31,79
+394913,1,"New York, NY",msa,NY,2026-06-30,78
+394913,1,"New York, NY",msa,NY,2026-07-31,78
+394913,1,"New York, NY",msa,NY,2026-08-31,78
+394913,1,"New York, NY",msa,NY,2026-09-30,76
+394913,1,"New York, NY",msa,NY,2026-10-31,73
+753899,2,"Los Angeles, CA",msa,CA,2021-01-31,91
+753899,2,"Los Angeles, CA",msa,CA,2021-02-28,110
+753899,2,"Los Angeles, CA",msa,CA,2021-03-31,121
+753899,2,"Los Angeles, CA",msa,CA,2021-04-30,132
+753899,2,"Los Angeles, CA",msa,CA,2021-05-31,151
+753899,2,"Los Angeles, CA",msa,CA,2021-06-30,179
+753899,2,"Los Angeles, CA",msa,CA,2021-07-31,207
+753899,2,"Los Angeles, CA",msa,CA,2021-08-31,209
+753899,2,"Los Angeles, CA",msa,CA,2021-09-30,194
+753899,2,"Los Angeles, CA",msa,CA,2021-10-31,174
+753899,2,"Los Angeles, CA",msa,CA,2021-11-30,155
+753899,2,"Los Angeles, CA",msa,CA,2021-12-31,169
+753899,2,"Los Angeles, CA",msa,CA,2022-01-31,194
+753899,2,"Los Angeles, CA",msa,CA,2022-02-28,216
+753899,2,"Los Angeles, CA",msa,CA,2022-03-31,213
+753899,2,"Los Angeles, CA",msa,CA,2022-04-30,220
+753899,2,"Los Angeles, CA",msa,CA,2022-05-31,240
+753899,2,"Los Angeles, CA",msa,CA,2022-06-30,261
+753899,2,"Los Angeles, CA",msa,CA,2022-07-31,263
+753899,2,"Los Angeles, CA",msa,CA,2022-08-31,232
+753899,2,"Los Angeles, CA",msa,CA,2022-09-30,191
+753899,2,"Los Angeles, CA",msa,CA,2022-10-31,155
+753899,2,"Los Angeles, CA",msa,CA,2022-11-30,129
+753899,2,"Los Angeles, CA",msa,CA,2022-12-31,129
+753899,2,"Los Angeles, CA",msa,CA,2023-01-31,137
+753899,2,"Los Angeles, CA",msa,CA,2023-02-28,146
+753899,2,"Los Angeles, CA",msa,CA,2023-03-31,138
+753899,2,"Los Angeles, CA",msa,CA,2023-04-30,141
+753899,2,"Los Angeles, CA",msa,CA,2023-05-31,143
+753899,2,"Los Angeles, CA",msa,CA,2023-06-30,144
+753899,2,"Los Angeles, CA",msa,CA,2023-07-31,137
+753899,2,"Los Angeles, CA",msa,CA,2023-08-31,124
+753899,2,"Los Angeles, CA",msa,CA,2023-09-30,106
+753899,2,"Los Angeles, CA",msa,CA,2023-10-31,91
+753899,2,"Los Angeles, CA",msa,CA,2023-11-30,76
+753899,2,"Los Angeles, CA",msa,CA,2023-12-31,77
+753899,2,"Los Angeles, CA",msa,CA,2024-01-31,86
+753899,2,"Los Angeles, CA",msa,CA,2024-02-29,95
+753899,2,"Los Angeles, CA",msa,CA,2024-03-31,92
+753899,2,"Los Angeles, CA",msa,CA,2024-04-30,93
+753899,2,"Los Angeles, CA",msa,CA,2024-05-31,94
+753899,2,"Los Angeles, CA",msa,CA,2024-06-30,95
+753899,2,"Los Angeles, CA",msa,CA,2024-07-31,92
+753899,2,"Los Angeles, CA",msa,CA,2024-08-31,84
+753899,2,"Los Angeles, CA",msa,CA,2024-09-30,73
+753899,2,"Los Angeles, CA",msa,CA,2024-10-31,64
+753899,2,"Los Angeles, CA",msa,CA,2024-11-30,55
+753899,2,"Los Angeles, CA",msa,CA,2024-12-31,61
+753899,2,"Los Angeles, CA",msa,CA,2025-01-31,72
+753899,2,"Los Angeles, CA",msa,CA,2025-02-28,80
+753899,2,"Los Angeles, CA",msa,CA,2025-03-31,71
+753899,2,"Los Angeles, CA",msa,CA,2025-04-30,64
+753899,2,"Los Angeles, CA",msa,CA,2025-05-31,59
+753899,2,"Los Angeles, CA",msa,CA,2025-06-30,62
+753899,2,"Los Angeles, CA",msa,CA,2025-07-31,60
+753899,2,"Los Angeles, CA",msa,CA,2025-08-31,53
+753899,2,"Los Angeles, CA",msa,CA,2025-09-30,46
+753899,2,"Los Angeles, CA",msa,CA,2025-10-31,40
+753899,2,"Los Angeles, CA",msa,CA,2025-11-30,37
+753899,2,"Los Angeles, CA",msa,CA,2025-12-31,43
+753899,2,"Los Angeles, CA",msa,CA,2026-01-31,51
+753899,2,"Los Angeles, CA",msa,CA,2026-02-28,54
+753899,2,"Los Angeles, CA",msa,CA,2026-03-31,53
+753899,2,"Los Angeles, CA",msa,CA,2026-04-30,57
+753899,2,"Los Angeles, CA",msa,CA,2026-05-31,61
+753899,2,"Los Angeles, CA",msa,CA,2026-06-30,63
+753899,2,"Los Angeles, CA",msa,CA,2026-07-31,63
+753899,2,"Los Angeles, CA",msa,CA,2026-08-31,61
+753899,2,"Los Angeles, CA",msa,CA,2026-09-30,56
+753899,2,"Los Angeles, CA",msa,CA,2026-10-31,52
+394463,3,"Chicago, IL",msa,IL,2021-01-31,60
+394463,3,"Chicago, IL",msa,IL,2021-02-28,83
+394463,3,"Chicago, IL",msa,IL,2021-03-31,106
+394463,3,"Chicago, IL",msa,IL,2021-04-30,122
+394463,3,"Chicago, IL",msa,IL,2021-05-31,127
+394463,3,"Chicago, IL",msa,IL,2021-06-30,132
+394463,3,"Chicago, IL",msa,IL,2021-07-31,133
+394463,3,"Chicago, IL",msa,IL,2021-08-31,125
+394463,3,"Chicago, IL",msa,IL,2021-09-30,111
+394463,3,"Chicago, IL",msa,IL,2021-10-31,99
+394463,3,"Chicago, IL",msa,IL,2021-11-30,89
+394463,3,"Chicago, IL",msa,IL,2021-12-31,96
+394463,3,"Chicago, IL",msa,IL,2022-01-31,120
+394463,3,"Chicago, IL",msa,IL,2022-02-28,161
+394463,3,"Chicago, IL",msa,IL,2022-03-31,195
+394463,3,"Chicago, IL",msa,IL,2022-04-30,208
+394463,3,"Chicago, IL",msa,IL,2022-05-31,202
+394463,3,"Chicago, IL",msa,IL,2022-06-30,188
+394463,3,"Chicago, IL",msa,IL,2022-07-31,178
+394463,3,"Chicago, IL",msa,IL,2022-08-31,160
+394463,3,"Chicago, IL",msa,IL,2022-09-30,140
+394463,3,"Chicago, IL",msa,IL,2022-10-31,116
+394463,3,"Chicago, IL",msa,IL,2022-11-30,98
+394463,3,"Chicago, IL",msa,IL,2022-12-31,103
+394463,3,"Chicago, IL",msa,IL,2023-01-31,124
+394463,3,"Chicago, IL",msa,IL,2023-02-28,152
+394463,3,"Chicago, IL",msa,IL,2023-03-31,160
+394463,3,"Chicago, IL",msa,IL,2023-04-30,163
+394463,3,"Chicago, IL",msa,IL,2023-05-31,150
+394463,3,"Chicago, IL",msa,IL,2023-06-30,139
+394463,3,"Chicago, IL",msa,IL,2023-07-31,127
+394463,3,"Chicago, IL",msa,IL,2023-08-31,119
+394463,3,"Chicago, IL",msa,IL,2023-09-30,108
+394463,3,"Chicago, IL",msa,IL,2023-10-31,99
+394463,3,"Chicago, IL",msa,IL,2023-11-30,87
+394463,3,"Chicago, IL",msa,IL,2023-12-31,92
+394463,3,"Chicago, IL",msa,IL,2024-01-31,117
+394463,3,"Chicago, IL",msa,IL,2024-02-29,144
+394463,3,"Chicago, IL",msa,IL,2024-03-31,155
+394463,3,"Chicago, IL",msa,IL,2024-04-30,156
+394463,3,"Chicago, IL",msa,IL,2024-05-31,153
+394463,3,"Chicago, IL",msa,IL,2024-06-30,147
+394463,3,"Chicago, IL",msa,IL,2024-07-31,136
+394463,3,"Chicago, IL",msa,IL,2024-08-31,122
+394463,3,"Chicago, IL",msa,IL,2024-09-30,104
+394463,3,"Chicago, IL",msa,IL,2024-10-31,91
+394463,3,"Chicago, IL",msa,IL,2024-11-30,80
+394463,3,"Chicago, IL",msa,IL,2024-12-31,87
+394463,3,"Chicago, IL",msa,IL,2025-01-31,108
+394463,3,"Chicago, IL",msa,IL,2025-02-28,138
+394463,3,"Chicago, IL",msa,IL,2025-03-31,145
+394463,3,"Chicago, IL",msa,IL,2025-04-30,136
+394463,3,"Chicago, IL",msa,IL,2025-05-31,118
+394463,3,"Chicago, IL",msa,IL,2025-06-30,110
+394463,3,"Chicago, IL",msa,IL,2025-07-31,98
+394463,3,"Chicago, IL",msa,IL,2025-08-31,83
+394463,3,"Chicago, IL",msa,IL,2025-09-30,67
+394463,3,"Chicago, IL",msa,IL,2025-10-31,56
+394463,3,"Chicago, IL",msa,IL,2025-11-30,48
+394463,3,"Chicago, IL",msa,IL,2025-12-31,54
+394463,3,"Chicago, IL",msa,IL,2026-01-31,71
+394463,3,"Chicago, IL",msa,IL,2026-02-28,89
+394463,3,"Chicago, IL",msa,IL,2026-03-31,102
+394463,3,"Chicago, IL",msa,IL,2026-04-30,109
+394463,3,"Chicago, IL",msa,IL,2026-05-31,106
+394463,3,"Chicago, IL",msa,IL,2026-06-30,98
+394463,3,"Chicago, IL",msa,IL,2026-07-31,92
+394463,3,"Chicago, IL",msa,IL,2026-08-31,86
+394463,3,"Chicago, IL",msa,IL,2026-09-30,79
+394463,3,"Chicago, IL",msa,IL,2026-10-31,74
+394974,7,"Philadelphia, PA",msa,PA,2021-01-31,138
+394974,7,"Philadelphia, PA",msa,PA,2021-02-28,182
+394974,7,"Philadelphia, PA",msa,PA,2021-03-31,212
+394974,7,"Philadelphia, PA",msa,PA,2021-04-30,222
+394974,7,"Philadelphia, PA",msa,PA,2021-05-31,225
+394974,7,"Philadelphia, PA",msa,PA,2021-06-30,243
+394974,7,"Philadelphia, PA",msa,PA,2021-07-31,267
+394974,7,"Philadelphia, PA",msa,PA,2021-08-31,272
+394974,7,"Philadelphia, PA",msa,PA,2021-09-30,259
+394974,7,"Philadelphia, PA",msa,PA,2021-10-31,234
+394974,7,"Philadelphia, PA",msa,PA,2021-11-30,202
+394974,7,"Philadelphia, PA",msa,PA,2021-12-31,195
+394974,7,"Philadelphia, PA",msa,PA,2022-01-31,217
+394974,7,"Philadelphia, PA",msa,PA,2022-02-28,257
+394974,7,"Philadelphia, PA",msa,PA,2022-03-31,276
+394974,7,"Philadelphia, PA",msa,PA,2022-04-30,275
+394974,7,"Philadelphia, PA",msa,PA,2022-05-31,257
+394974,7,"Philadelphia, PA",msa,PA,2022-06-30,233
+394974,7,"Philadelphia, PA",msa,PA,2022-07-31,206
+394974,7,"Philadelphia, PA",msa,PA,2022-08-31,180
+394974,7,"Philadelphia, PA",msa,PA,2022-09-30,155
+394974,7,"Philadelphia, PA",msa,PA,2022-10-31,131
+394974,7,"Philadelphia, PA",msa,PA,2022-11-30,110
+394974,7,"Philadelphia, PA",msa,PA,2022-12-31,107
+394974,7,"Philadelphia, PA",msa,PA,2023-01-31,119
+394974,7,"Philadelphia, PA",msa,PA,2023-02-28,137
+394974,7,"Philadelphia, PA",msa,PA,2023-03-31,135
+394974,7,"Philadelphia, PA",msa,PA,2023-04-30,128
+394974,7,"Philadelphia, PA",msa,PA,2023-05-31,117
+394974,7,"Philadelphia, PA",msa,PA,2023-06-30,112
+394974,7,"Philadelphia, PA",msa,PA,2023-07-31,106
+394974,7,"Philadelphia, PA",msa,PA,2023-08-31,99
+394974,7,"Philadelphia, PA",msa,PA,2023-09-30,88
+394974,7,"Philadelphia, PA",msa,PA,2023-10-31,78
+394974,7,"Philadelphia, PA",msa,PA,2023-11-30,68
+394974,7,"Philadelphia, PA",msa,PA,2023-12-31,69
+394974,7,"Philadelphia, PA",msa,PA,2024-01-31,82
+394974,7,"Philadelphia, PA",msa,PA,2024-02-29,96
+394974,7,"Philadelphia, PA",msa,PA,2024-03-31,100
+394974,7,"Philadelphia, PA",msa,PA,2024-04-30,98
+394974,7,"Philadelphia, PA",msa,PA,2024-05-31,95
+394974,7,"Philadelphia, PA",msa,PA,2024-06-30,90
+394974,7,"Philadelphia, PA",msa,PA,2024-07-31,85
+394974,7,"Philadelphia, PA",msa,PA,2024-08-31,79
+394974,7,"Philadelphia, PA",msa,PA,2024-09-30,71
+394974,7,"Philadelphia, PA",msa,PA,2024-10-31,64
+394974,7,"Philadelphia, PA",msa,PA,2024-11-30,57
+394974,7,"Philadelphia, PA",msa,PA,2024-12-31,60
+394974,7,"Philadelphia, PA",msa,PA,2025-01-31,71
+394974,7,"Philadelphia, PA",msa,PA,2025-02-28,88
+394974,7,"Philadelphia, PA",msa,PA,2025-03-31,90
+394974,7,"Philadelphia, PA",msa,PA,2025-04-30,84
+394974,7,"Philadelphia, PA",msa,PA,2025-05-31,75
+394974,7,"Philadelphia, PA",msa,PA,2025-06-30,73
+394974,7,"Philadelphia, PA",msa,PA,2025-07-31,67
+394974,7,"Philadelphia, PA",msa,PA,2025-08-31,58
+394974,7,"Philadelphia, PA",msa,PA,2025-09-30,51
+394974,7,"Philadelphia, PA",msa,PA,2025-10-31,45
+394974,7,"Philadelphia, PA",msa,PA,2025-11-30,42
+394974,7,"Philadelphia, PA",msa,PA,2025-12-31,46
+394974,7,"Philadelphia, PA",msa,PA,2026-01-31,58
+394974,7,"Philadelphia, PA",msa,PA,2026-02-28,70
+394974,7,"Philadelphia, PA",msa,PA,2026-03-31,73
+394974,7,"Philadelphia, PA",msa,PA,2026-04-30,71
+394974,7,"Philadelphia, PA",msa,PA,2026-05-31,67
+394974,7,"Philadelphia, PA",msa,PA,2026-06-30,64
+394974,7,"Philadelphia, PA",msa,PA,2026-07-31,61
+394974,7,"Philadelphia, PA",msa,PA,2026-08-31,59
+394974,7,"Philadelphia, PA",msa,PA,2026-09-30,56
+394974,7,"Philadelphia, PA",msa,PA,2026-10-31,54
+394404,10,"Boston, MA",msa,MA,2021-01-31,45
+394404,10,"Boston, MA",msa,MA,2021-02-28,60
+394404,10,"Boston, MA",msa,MA,2021-03-31,73
+394404,10,"Boston, MA",msa,MA,2021-04-30,82
+394404,10,"Boston, MA",msa,MA,2021-05-31,94
+394404,10,"Boston, MA",msa,MA,2021-06-30,101
+394404,10,"Boston, MA",msa,MA,2021-07-31,105
+394404,10,"Boston, MA",msa,MA,2021-08-31,101
+394404,10,"Boston, MA",msa,MA,2021-09-30,98
+394404,10,"Boston, MA",msa,MA,2021-10-31,94
+394404,10,"Boston, MA",msa,MA,2021-11-30,88
+394404,10,"Boston, MA",msa,MA,2021-12-31,92
+394404,10,"Boston, MA",msa,MA,2022-01-31,89
+394404,10,"Boston, MA",msa,MA,2022-02-28,76
+394404,10,"Boston, MA",msa,MA,2022-03-31,62
+394404,10,"Boston, MA",msa,MA,2022-04-30,68
+394404,10,"Boston, MA",msa,MA,2022-05-31,84
+394404,10,"Boston, MA",msa,MA,2022-06-30,92
+394404,10,"Boston, MA",msa,MA,2022-07-31,92
+394404,10,"Boston, MA",msa,MA,2022-08-31,87
+394404,10,"Boston, MA",msa,MA,2022-09-30,75
+394404,10,"Boston, MA",msa,MA,2022-10-31,60
+394404,10,"Boston, MA",msa,MA,2022-11-30,45
+394404,10,"Boston, MA",msa,MA,2022-12-31,41
+394404,10,"Boston, MA",msa,MA,2023-01-31,40
+394404,10,"Boston, MA",msa,MA,2023-02-28,43
+394404,10,"Boston, MA",msa,MA,2023-03-31,46
+394404,10,"Boston, MA",msa,MA,2023-04-30,54
+394404,10,"Boston, MA",msa,MA,2023-05-31,59
+394404,10,"Boston, MA",msa,MA,2023-06-30,60
+394404,10,"Boston, MA",msa,MA,2023-07-31,55
+394404,10,"Boston, MA",msa,MA,2023-08-31,48
+394404,10,"Boston, MA",msa,MA,2023-09-30,43
+394404,10,"Boston, MA",msa,MA,2023-10-31,40
+394404,10,"Boston, MA",msa,MA,2023-11-30,34
+394404,10,"Boston, MA",msa,MA,2023-12-31,32
+394404,10,"Boston, MA",msa,MA,2024-01-31,33
+394404,10,"Boston, MA",msa,MA,2024-02-29,35
+394404,10,"Boston, MA",msa,MA,2024-03-31,39
+394404,10,"Boston, MA",msa,MA,2024-04-30,44
+394404,10,"Boston, MA",msa,MA,2024-05-31,48
+394404,10,"Boston, MA",msa,MA,2024-06-30,49
+394404,10,"Boston, MA",msa,MA,2024-07-31,46
+394404,10,"Boston, MA",msa,MA,2024-08-31,40
+394404,10,"Boston, MA",msa,MA,2024-09-30,34
+394404,10,"Boston, MA",msa,MA,2024-10-31,30
+394404,10,"Boston, MA",msa,MA,2024-11-30,25
+394404,10,"Boston, MA",msa,MA,2024-12-31,23
+394404,10,"Boston, MA",msa,MA,2025-01-31,24
+394404,10,"Boston, MA",msa,MA,2025-02-28,29
+394404,10,"Boston, MA",msa,MA,2025-03-31,32
+394404,10,"Boston, MA",msa,MA,2025-04-30,35
+394404,10,"Boston, MA",msa,MA,2025-05-31,34
+394404,10,"Boston, MA",msa,MA,2025-06-30,31
+394404,10,"Boston, MA",msa,MA,2025-07-31,27
+394404,10,"Boston, MA",msa,MA,2025-08-31,22
+394404,10,"Boston, MA",msa,MA,2025-09-30,20
+394404,10,"Boston, MA",msa,MA,2025-10-31,19
+394404,10,"Boston, MA",msa,MA,2025-11-30,17
+394404,10,"Boston, MA",msa,MA,2025-12-31,19
+394404,10,"Boston, MA",msa,MA,2026-01-31,21
+394404,10,"Boston, MA",msa,MA,2026-02-28,25
+394404,10,"Boston, MA",msa,MA,2026-03-31,31
+394404,10,"Boston, MA",msa,MA,2026-04-30,37
+394404,10,"Boston, MA",msa,MA,2026-05-31,38
+394404,10,"Boston, MA",msa,MA,2026-06-30,35
+394404,10,"Boston, MA",msa,MA,2026-07-31,29
+394404,10,"Boston, MA",msa,MA,2026-08-31,26
+394404,10,"Boston, MA",msa,MA,2026-09-30,23
+394404,10,"Boston, MA",msa,MA,2026-10-31,22

@@ -1,0 +1,770 @@
+RegionID,SizeRank,RegionName,RegionType,StateName,State,Metro,StateCodeFIPS,MunicipalCodeFIPS,date,value
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2021-01-31,2191.58225931046
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2021-02-28,2198.9868112105114
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2021-03-31,2210.1960164393467
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2021-04-30,2218.916353838683
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2021-05-31,2234.949238129492
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2021-06-30,2264.1459677906714
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2021-07-31,2299.035760699924
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2021-08-31,2338.488621147215
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2021-09-30,2367.973476809102
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2021-10-31,2388.2545225151575
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2021-11-30,2400.126066826768
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2021-12-31,2416.4603237153565
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2022-01-31,2434.2360867807797
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2022-02-28,2458.6796762027043
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2022-03-31,2480.1223567192865
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2022-04-30,2507.1483895082897
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2022-05-31,2528.526372322813
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2022-06-30,2549.525732994759
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2022-07-31,2568.004620754945
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2022-08-31,2583.306556626528
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2022-09-30,2592.9257683804153
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2022-10-31,2590.4514673256404
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2022-11-30,2586.45214194375
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2022-12-31,2582.111860319402
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2023-01-31,2584.20812826826
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2023-02-28,2590.978282055182
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2023-03-31,2605.3948449369873
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2023-04-30,2614.590880349479
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2023-05-31,2622.5395747118732
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2023-06-30,2624.70143641212
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2023-07-31,2631.151316025933
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2023-08-31,2636.6485102706124
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2023-09-30,2637.711592855378
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2023-10-31,2634.619493361538
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2023-11-30,2625.987099289371
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2023-12-31,2620.756613422903
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2024-01-31,2624.007622076138
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2024-02-29,2632.509724253498
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2024-03-31,2645.1140189431417
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2024-04-30,2655.071237523623
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2024-05-31,2665.553080245684
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2024-06-30,2673.583408777654
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2024-07-31,2682.8087332713553
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2024-08-31,2688.4681692579484
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2024-09-30,2693.252854746765
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2024-10-31,2690.3650335456914
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2024-11-30,2686.471836579818
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2024-12-31,2681.706701455514
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2025-01-31,2703.345670286122
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2025-02-28,2724.178493108852
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2025-03-31,2744.590389523307
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2025-04-30,2739.50079344877
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2025-05-31,2739.652255939852
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2025-06-30,2740.8616861805035
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2025-07-31,2744.7077971099316
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2025-08-31,2745.9053060346873
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2025-09-30,2747.3761733436468
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2025-10-31,2745.548067520921
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2025-11-30,2740.788118593858
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2025-12-31,2733.309869128016
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2026-01-31,2736.477091999994
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2026-02-28,2743.4646935873207
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2026-03-31,2755.592860204206
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2026-04-30,2763.7084282681985
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2026-05-31,2771.6250126598843
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2026-06-30,2775.609561854972
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2026-07-31,2776.0127804373783
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2026-08-31,2779.1746458373336
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2026-09-30,2784.8866655695997
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",06,037,2026-10-31,2790.9855475106597
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2021-01-31,1508.8499430297811
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2021-02-28,1521.89375802445
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2021-03-31,1539.4222533261627
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2021-04-30,1565.875669452169
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2021-05-31,1592.3048078277884
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2021-06-30,1616.6026536441564
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2021-07-31,1632.8482274507144
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2021-08-31,1642.7785266845265
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2021-09-30,1646.8987545104897
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2021-10-31,1644.922177725364
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2021-11-30,1644.0549582443762
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2021-12-31,1649.7504863240424
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2022-01-31,1664.1126794154336
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2022-02-28,1681.1254919661649
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2022-03-31,1701.9822004555
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2022-04-30,1725.942127907724
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2022-05-31,1751.029541538668
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2022-06-30,1770.1136362253635
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2022-07-31,1784.103155640919
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2022-08-31,1790.6790525720571
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2022-09-30,1789.8549961881183
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2022-10-31,1784.5015259428496
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2022-11-30,1779.1134059212477
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2022-12-31,1781.4539565890395
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2023-01-31,1790.728377440939
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2023-02-28,1806.030613573675
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2023-03-31,1823.1397666378232
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2023-04-30,1841.0943733118904
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2023-05-31,1861.378004084789
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2023-06-30,1878.29659281827
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2023-07-31,1889.654246934453
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2023-08-31,1894.6258985698776
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2023-09-30,1889.3795226072057
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2023-10-31,1879.5465119660944
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2023-11-30,1871.7336070911783
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2023-12-31,1874.009368582532
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2024-01-31,1884.261583893224
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2024-02-29,1899.859740377904
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2024-03-31,1915.809853581559
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2024-04-30,1935.2801748462316
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2024-05-31,1951.2749884714856
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2024-06-30,1965.9812949925904
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2024-07-31,1972.7462544665104
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2024-08-31,1973.919558968517
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2024-09-30,1970.296333677199
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2024-10-31,1967.014916885688
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2024-11-30,1965.5882645974411
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2024-12-31,1968.5174935336129
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2025-01-31,1979.2593427772129
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2025-02-28,1998.025596580798
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2025-03-31,2020.6749712620176
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2025-04-30,2042.6813888601075
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2025-05-31,2063.2304420760447
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2025-06-30,2081.4311115537193
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2025-07-31,2091.0606734329576
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2025-08-31,2093.7312098756797
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2025-09-30,2090.656553553106
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2025-10-31,2083.8647510522846
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2025-11-30,2080.197971579052
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2025-12-31,2078.861204888673
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2026-01-31,2094.0424779596415
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2026-02-28,2113.9174389886066
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2026-03-31,2139.7537608343596
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2026-04-30,2160.760974437067
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2026-05-31,2181.613015314721
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2026-06-30,2198.6463316938452
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2026-07-31,2207.2831744661676
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2026-08-31,2204.5302380364915
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2026-09-30,2197.8648032544393
+139,1,Cook County,county,IL,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17,031,2026-10-31,2193.726623245754
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2021-01-31,2459.7857897622775
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2021-02-28,2469.653848693108
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2021-03-31,2492.19133765576
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2021-04-30,2525.351495784365
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2021-05-31,2564.3273559218005
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2021-06-30,2616.4880249996845
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2021-07-31,2673.8519955297634
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2021-08-31,2730.5458328347854
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2021-09-30,2776.8253791598977
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2021-10-31,2802.634081481872
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2021-11-30,2823.0974321564822
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2021-12-31,2835.366572768444
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2022-01-31,2869.542590007235
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2022-02-28,2908.0895900835253
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2022-03-31,2960.3719537174497
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2022-04-30,3003.3845906189913
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2022-05-31,3063.22190841644
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2022-06-30,3125.9194788933996
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2022-07-31,3186.9797449540797
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2022-08-31,3227.3588556765403
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2022-09-30,3235.9009372080886
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2022-10-31,3227.2958384998287
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2022-11-30,3187.5668578809778
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2022-12-31,3157.2480138867336
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2023-01-31,3151.250685521421
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2023-02-28,3166.6535911817723
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2023-03-31,3193.6328624833063
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2023-04-30,3221.8931450228065
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2023-05-31,3258.629092473077
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2023-06-30,3297.45493902683
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2023-07-31,3325.5388628804626
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2023-08-31,3344.1825996329844
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2023-09-30,3349.780136332453
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2023-10-31,3332.2977762275596
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2023-11-30,3297.1753501432095
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2023-12-31,3271.4408308487377
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2024-01-31,3272.542968359082
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2024-02-29,3299.0043674986573
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2024-03-31,3330.0670438032557
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2024-04-30,3359.228495800213
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2024-05-31,3393.8556862435685
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2024-06-30,3428.5520310636375
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2024-07-31,3453.506075773385
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2024-08-31,3457.680011753542
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2024-09-30,3445.118064270536
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2024-10-31,3423.568054661652
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2024-11-30,3402.598291090725
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2024-12-31,3379.126912137613
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2025-01-31,3380.115899353403
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2025-02-28,3402.4457031380903
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2025-03-31,3448.364526808438
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2025-04-30,3491.377057028384
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2025-05-31,3529.436075464595
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2025-06-30,3569.364048298968
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2025-07-31,3596.394784017609
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2025-08-31,3615.361144801283
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2025-09-30,3606.021146563549
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2025-10-31,3590.506353058476
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2025-11-30,3557.466382887545
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2025-12-31,3540.7007093439206
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2026-01-31,3546.2605410753768
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2026-02-28,3579.5078712512463
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2026-03-31,3622.489566292579
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2026-04-30,3661.264956748884
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2026-05-31,3705.180263455014
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2026-06-30,3741.8755508100185
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2026-07-31,3769.618270641048
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2026-08-31,3789.606620504884
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2026-09-30,3791.5768305690817
+581,6,Kings County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,047,2026-10-31,3789.028592022557
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2021-01-31,2305.905881744291
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2021-02-28,2303.0382112195684
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2021-03-31,2297.677031774687
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2021-04-30,2298.2173588068604
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2021-05-31,2304.4052564587287
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2021-06-30,2323.4751712356633
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2021-07-31,2355.9597326642247
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2021-08-31,2395.9102885647817
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2021-09-30,2423.9280014355986
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2021-10-31,2449.2413137823028
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2021-11-30,2467.40251422208
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2021-12-31,2487.0886732740196
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2022-01-31,2493.7936561389783
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2022-02-28,2505.514904145237
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2022-03-31,2519.966287103473
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2022-04-30,2546.881350999991
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2022-05-31,2580.774933642098
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2022-06-30,2625.9361086666777
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2022-07-31,2667.5150230584923
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2022-08-31,2702.923123660183
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2022-09-30,2726.948581149327
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2022-10-31,2730.335022728854
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2022-11-30,2719.458026259178
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2022-12-31,2708.9109571854283
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2023-01-31,2707.359347730102
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2023-02-28,2719.054829817704
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2023-03-31,2731.0705774527846
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2023-04-30,2752.7383230846685
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2023-05-31,2773.3817121828697
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2023-06-30,2796.6760523682965
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2023-07-31,2825.2418390883527
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2023-08-31,2841.0905877419814
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2023-09-30,2851.522034579816
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2023-10-31,2848.862555115131
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2023-11-30,2841.5843569916037
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2023-12-31,2846.2745879523895
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2024-01-31,2847.8191485173184
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2024-02-29,2865.1472164315264
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2024-03-31,2879.8277401796454
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2024-04-30,2901.411109629137
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2024-05-31,2922.531017114833
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2024-06-30,2940.775280555564
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2024-07-31,2962.66228222888
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2024-08-31,2976.30949372076
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2024-09-30,2977.8108845182437
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2024-10-31,2969.128923453804
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2024-11-30,2961.424596240874
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2024-12-31,2958.8975244882645
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2025-01-31,2973.6354532409314
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2025-02-28,2987.2915272170276
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2025-03-31,3011.0620194582148
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2025-04-30,3019.5264660898833
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2025-05-31,3030.7114788383738
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2025-06-30,3052.568574481246
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2025-07-31,3086.741472291921
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2025-08-31,3118.248503612899
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2025-09-30,3125.0643517425756
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2025-10-31,3119.5744454036058
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2025-11-30,3107.4637389106592
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2025-12-31,3104.9133428368127
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2026-01-31,3099.4379995779304
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2026-02-28,3103.6075213353033
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2026-03-31,3116.4204379635476
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2026-04-30,3134.765343490171
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2026-05-31,3164.3699335489387
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2026-06-30,3183.069568329918
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2026-07-31,3210.5434808154573
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2026-08-31,3222.451439951666
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2026-09-30,3237.94525566567
+1347,10,Queens County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,081,2026-10-31,3232.8625050840524
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2021-01-31,2807.129439276317
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2021-02-28,2832.5072781690733
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2021-03-31,2881.418431459669
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2021-04-30,2945.2223923816337
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2021-05-31,3032.582727629109
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2021-06-30,3136.314555126175
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2021-07-31,3254.912007875325
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2021-08-31,3359.79590857525
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2021-09-30,3445.4897381864102
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2021-10-31,3496.7544082031695
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2021-11-30,3534.5238391050284
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2021-12-31,3563.5187296340337
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2022-01-31,3604.4625447967983
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2022-02-28,3653.766641788816
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2022-03-31,3709.3410757983847
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2022-04-30,3762.733935963027
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2022-05-31,3825.1895866139607
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2022-06-30,3892.122274840729
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2022-07-31,3949.679048791626
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2022-08-31,3981.086167754795
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2022-09-30,3982.69697572464
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2022-10-31,3954.029243704449
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2022-11-30,3905.293655655305
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2022-12-31,3865.188141087744
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2023-01-31,3850.5828539230374
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2023-02-28,3863.737136580249
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2023-03-31,3894.25217069506
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2023-04-30,3942.787193279191
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2023-05-31,3995.4656564956
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2023-06-30,4044.4280140591936
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2023-07-31,4074.0829175374142
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2023-08-31,4082.954465059263
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2023-09-30,4068.291499417474
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2023-10-31,4031.674352732773
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2023-11-30,3985.127519322976
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2023-12-31,3942.086985072872
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2024-01-31,3936.755891879314
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2024-02-29,3963.7078166585975
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2024-03-31,4017.2985458382295
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2024-04-30,4076.021392330911
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2024-05-31,4133.269112009902
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2024-06-30,4181.199896142632
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2024-07-31,4204.6647092812545
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2024-08-31,4208.275591396279
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2024-09-30,4188.745807930865
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2024-10-31,4161.484254769261
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2024-11-30,4131.073361359901
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2024-12-31,4117.468541005047
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2025-01-31,4126.791655119753
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2025-02-28,4167.639804093699
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2025-03-31,4219.593220545703
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2025-04-30,4274.6061833776985
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2025-05-31,4320.839062894021
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2025-06-30,4386.168114187424
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2025-07-31,4448.654128804692
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2025-08-31,4493.928350477331
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2025-09-30,4491.004859026261
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2025-10-31,4467.837412284559
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2025-11-30,4425.664101016635
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2025-12-31,4392.164093153355
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2026-01-31,4377.051727984445
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2026-02-28,4407.516404048527
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2026-03-31,4466.975068012645
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2026-04-30,4541.604462272729
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2026-05-31,4612.919402268965
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2026-06-30,4682.933087138266
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2026-07-31,4729.696442231584
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2026-08-31,4752.963688805465
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2026-09-30,4747.2902447748165
+2452,20,New York County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,061,2026-10-31,4734.570606182998
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2021-01-31,1364.536689367507
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2021-02-28,1371.688565953516
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2021-03-31,1381.6438244781527
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2021-04-30,1393.1447989758076
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2021-05-31,1411.7478081424945
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2021-06-30,1427.615283524082
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2021-07-31,1440.093065439681
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2021-08-31,1450.0347378394065
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2021-09-30,1450.7245825657965
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2021-10-31,1456.2134907005889
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2021-11-30,1463.691876024929
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2021-12-31,1481.1871194143764
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2022-01-31,1493.4989146090013
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2022-02-28,1500.6196010377212
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2022-03-31,1509.6522299872706
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2022-04-30,1520.536500045432
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2022-05-31,1535.512812930967
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2022-06-30,1547.8495786490005
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2022-07-31,1553.2064055077108
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2022-08-31,1552.911904310615
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2022-09-30,1551.0272077695506
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2022-10-31,1546.1887598007247
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2022-11-30,1544.4476535797207
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2022-12-31,1540.140926055171
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2023-01-31,1545.3738245107193
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2023-02-28,1550.3382108130177
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2023-03-31,1562.5923760313754
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2023-04-30,1571.6404938643457
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2023-05-31,1580.7408571217793
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2023-06-30,1583.98474206784
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2023-07-31,1584.9550324657732
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2023-08-31,1584.8935765980252
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2023-09-30,1585.83944529994
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2023-10-31,1588.0268463510592
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2023-11-30,1587.101472953164
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2023-12-31,1584.7628110378278
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2024-01-31,1588.0536974144793
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2024-02-29,1596.12573268149
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2024-03-31,1608.67680229574
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2024-04-30,1617.8614262309018
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2024-05-31,1627.2328352509392
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2024-06-30,1631.7169128476569
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2024-07-31,1633.2862375203515
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2024-08-31,1633.4198738896623
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2024-09-30,1633.0827250687778
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2024-10-31,1632.784351513764
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2024-11-30,1633.7529438129625
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2024-12-31,1637.0527759052366
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2025-01-31,1642.7893732057237
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2025-02-28,1649.6241065386214
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2025-03-31,1655.9064280921789
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2025-04-30,1663.7972983317898
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2025-05-31,1669.202020546306
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2025-06-30,1674.1838783781902
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2025-07-31,1678.3549044426566
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2025-08-31,1679.0240733319245
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2025-09-30,1680.6927350210217
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2025-10-31,1680.1903300265883
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2025-11-30,1679.1007527175077
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2025-12-31,1682.2019283665452
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2026-01-31,1685.0582895703235
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2026-02-28,1694.592654759139
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2026-03-31,1701.6870370695212
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2026-04-30,1712.090595417096
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2026-05-31,1720.731829925817
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2026-06-30,1730.4740466818894
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2026-07-31,1737.0981629158048
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2026-08-31,1741.385234599695
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2026-09-30,1736.6185408690028
+3175,22,Philadelphia County,county,PA,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,2026-10-31,1734.5765972664324
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2021-01-31,2049.579635319671
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2021-02-28,2059.5255792978555
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2021-03-31,2064.1997288094412
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2021-04-30,2065.7977262143277
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2021-05-31,2064.5077678033467
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2021-06-30,2083.4917474333515
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2021-07-31,2100.0425516570726
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2021-08-31,2102.9612020191844
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2021-09-30,2120.384286658102
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2021-10-31,2137.74915960681
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2021-11-30,2167.205871764916
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2021-12-31,2165.6287935838013
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2022-01-31,2165.4219394963206
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2022-02-28,2159.156219065397
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2022-03-31,2184.679529686174
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2022-04-30,2206.2962606556284
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2022-05-31,2247.239831712695
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2022-06-30,2261.617219203251
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2022-07-31,2285.994381193346
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2022-08-31,2297.8559799110735
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2022-09-30,2314.399697580692
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2022-10-31,2308.9417397473394
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2022-11-30,2300.8490629551716
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2022-12-31,2292.4422725840486
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2023-01-31,2311.875129313892
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2023-02-28,2329.6285742381306
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2023-03-31,2350.866989193802
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2023-04-30,2355.5776087540185
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2023-05-31,2380.0315694859337
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2023-06-30,2403.685161951873
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2023-07-31,2437.534225523073
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2023-08-31,2458.5162319479746
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2023-09-30,2467.607392734404
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2023-10-31,2474.297079002101
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2023-11-30,2455.9863191799845
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2023-12-31,2455.620423314043
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2024-01-31,2470.2519577595604
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2024-02-29,2501.193483486181
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2024-03-31,2558.040014069176
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2024-04-30,2575.436569621144
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2024-05-31,2591.8992618311563
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2024-06-30,2589.737479483917
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2024-07-31,2584.0738850279495
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2024-08-31,2584.4967418345254
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2024-09-30,2573.925223716026
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2024-10-31,2576.773714311687
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2024-11-30,2603.064015407348
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2024-12-31,2630.034864286649
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2025-01-31,2656.013190240399
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2025-02-28,2651.7387495553276
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2025-03-31,2651.1100529103196
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2025-04-30,2667.5581141489993
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2025-05-31,2655.797773553597
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2025-06-30,2659.85042211855
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2025-07-31,2642.810185467166
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2025-08-31,2657.121296151573
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2025-09-30,2653.5382605168106
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2025-10-31,2692.1889508407107
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2025-11-30,2706.504608028335
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2025-12-31,2727.9187170290347
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2026-01-31,2711.477989259878
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2026-02-28,2713.6084002495268
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2026-03-31,2744.965677973161
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2026-04-30,2758.4467868436845
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2026-05-31,2783.724995169247
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2026-06-30,2772.550025354761
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2026-07-31,2806.56741520318
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2026-08-31,2796.5872257574824
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2026-09-30,2797.1678373066425
+401,26,Bronx County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,005,2026-10-31,2766.0123484201154
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2021-01-31,2634.49846105556
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2021-02-28,2663.778128623682
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2021-03-31,2694.469505804944
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2021-04-30,2733.701114999364
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2021-05-31,2757.726989505627
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2021-06-30,2794.568705855811
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2021-07-31,2805.555323881186
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2021-08-31,2811.408175844414
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2021-10-31,2793.170246472951
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2021-11-30,2803.7277017347797
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2021-12-31,2809.255811220567
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2022-01-31,2854.473347819349
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2022-02-28,2890.423551993694
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2022-03-31,2966.342600964322
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2022-04-30,2990.0859823315977
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2022-05-31,3016.025356549448
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2022-06-30,3031.656989100833
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2022-07-31,3039.755828568869
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2022-08-31,3040.6631912489024
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2022-09-30,2994.416054899425
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2022-10-31,2984.0991813375545
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2022-11-30,2981.7063884811396
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2022-12-31,3021.8723680787048
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2023-01-31,3018.9986396813456
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2023-02-28,3042.5704556530536
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2023-03-31,3075.7821073037803
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2023-04-30,3111.2806128896136
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2023-05-31,3138.959697594577
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2023-06-30,3158.6016606184676
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2023-07-31,3167.3948481140987
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2023-08-31,3167.775736375761
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2023-09-30,3144.993195074137
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2023-10-31,3163.185551726837
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2023-11-30,3146.621311481137
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2023-12-31,3175.612177232721
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2024-01-31,3192.027987805018
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2024-02-29,3220.2009502280266
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2024-03-31,3232.3474217442313
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2024-04-30,3239.2764541149527
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2024-05-31,3284.126606840496
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2024-06-30,3294.544658982295
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2024-07-31,3308.5178158536146
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2024-08-31,3299.2010508809267
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2024-09-30,3296.148306841136
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2024-10-31,3285.414791654416
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2024-11-30,3272.587110522112
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2024-12-31,3295.1577413332016
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2025-01-31,3311.9406485806226
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2025-02-28,3326.149925719667
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2025-03-31,3323.5856336846555
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2025-04-30,3339.2873235029256
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2025-05-31,3378.4916731502112
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2025-06-30,3427.8099738387696
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2025-07-31,3451.0524110276515
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2025-08-31,3461.9879392557737
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2025-09-30,3451.2849901364966
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2025-10-31,3438.1241222038548
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2025-11-30,3416.4307959733487
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2025-12-31,3430.972532118824
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2026-01-31,3441.124014307656
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2026-02-28,3492.6167464187743
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2026-03-31,3478.0752334684184
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2026-04-30,3513.9259329092
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2026-05-31,3537.6618702558044
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2026-06-30,3569.706135147774
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2026-07-31,3597.080916428381
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2026-08-31,3560.890317786317
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2026-09-30,3568.8949923470404
+1252,29,Nassau County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,059,2026-10-31,3592.0282909710477
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2021-01-31,2339.931283353116
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2021-02-28,2335.480904776282
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2021-03-31,2352.2505787487007
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2021-04-30,2373.5913007015097
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2021-05-31,2379.4153270027073
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2021-06-30,2392.510770443138
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2021-07-31,2406.3839659458795
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2021-08-31,2431.9664337638887
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2021-09-30,2434.7856339430036
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2021-10-31,2432.7383157894715
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2021-11-30,2439.8226918266337
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2021-12-31,2474.13311951857
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2022-01-31,2497.5444469127924
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2022-02-28,2517.9715284824606
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2022-03-31,2521.3154878487435
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2022-04-30,2545.090281121069
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2022-05-31,2572.35235633166
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2022-06-30,2615.6374433655724
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2022-07-31,2647.34294018951
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2022-08-31,2652.8402229326225
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2022-09-30,2652.414741909972
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2022-10-31,2621.014576276754
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2022-11-30,2622.0787217319707
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2022-12-31,2595.0516235128707
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2023-01-31,2604.848425506307
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2023-02-28,2606.148712521668
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2023-03-31,2655.216893719032
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2023-04-30,2692.87528315222
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2023-05-31,2712.8866353804756
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2023-06-30,2719.7589255452663
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2023-07-31,2725.4475243540064
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2023-08-31,2747.177896878733
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2023-09-30,2739.579898497698
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2023-10-31,2738.380258195569
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2023-11-30,2722.9372433163576
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2023-12-31,2733.8234197620836
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2024-01-31,2750.3906045634767
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2024-02-29,2770.7772557971707
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2024-03-31,2776.3513055655617
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2024-04-30,2782.516262280492
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2024-05-31,2787.954086881566
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2024-06-30,2806.7704513471094
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2024-07-31,2809.0470780436367
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2024-08-31,2818.2256218876178
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2024-09-30,2816.632564608806
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2024-10-31,2810.5703703132754
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2024-11-30,2817.5431171856035
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2024-12-31,2829.917604946444
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2025-01-31,2859.6064025046007
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2025-02-28,2877.4521124727316
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2025-03-31,2894.9505750340927
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2025-04-30,2902.921900676083
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2025-05-31,2917.1998737970966
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2025-06-30,2921.640878420733
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2025-07-31,2937.5034350267933
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2025-08-31,2944.2859733766672
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2025-09-30,2946.862086616882
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2025-10-31,2947.1031304822723
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2025-11-30,2930.2238258247335
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2025-12-31,2940.808120063848
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2026-01-31,2947.8626221938075
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2026-02-28,2966.206534383227
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2026-03-31,2986.281284748831
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2026-04-30,3015.6839401922193
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2026-05-31,3050.652303993738
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2026-06-30,3063.07818375074
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2026-07-31,3076.9914104440977
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2026-08-31,3081.660488467862
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2026-09-30,3093.4797894086414
+3148,48,Westchester County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,119,2026-10-31,3082.647857013783
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2021-01-31,2366.382216581149
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2021-02-28,2419.5698263523095
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2021-03-31,2462.3392421170884
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2021-04-30,2482.2185475436468
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2021-05-31,2514.674016307294
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2021-06-30,2548.6669217101953
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2021-07-31,2587.140375053623
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2021-08-31,2598.576862583283
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2021-09-30,2605.094347105099
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2021-10-31,2617.442069509457
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2021-11-30,2636.97276706974
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2021-12-31,2660.517473918957
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2022-01-31,2684.6045251328583
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2022-02-28,2700.1687046027314
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2022-03-31,2720.5038317225253
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2022-04-30,2745.622445041073
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2022-05-31,2786.267293034139
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2022-06-30,2822.2590972605253
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2022-07-31,2853.648082265481
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2022-08-31,2876.028858138983
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2022-09-30,2898.6865133288834
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2022-10-31,2898.595750124055
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2022-11-30,2899.289200057125
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2022-12-31,2900.951286827283
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2023-01-31,2912.4613515668943
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2023-02-28,2937.6982706476274
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2023-03-31,2960.382857759544
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2023-04-30,2993.3840075672997
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2023-05-31,3018.496650986196
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2023-06-30,3040.5952479014054
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2023-07-31,3053.798266000026
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2023-08-31,3055.185424959868
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2023-09-30,3048.847411795154
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2023-10-31,3046.202909802635
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2023-11-30,3061.759920625118
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2023-12-31,3077.1687454272687
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2024-01-31,3092.158458497446
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2024-02-29,3106.4796320855353
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2024-03-31,3123.0017569442703
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2024-04-30,3140.952385852872
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2024-05-31,3152.7271698613704
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2024-06-30,3165.4913653376498
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2024-07-31,3165.3293120649128
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2024-08-31,3136.6949319904343
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2024-09-30,3113.1518905391217
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2024-10-31,3100.193757093253
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2024-11-30,3135.503800226453
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2024-12-31,3168.574991199098
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2025-01-31,3211.549867025056
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2025-02-28,3221.987254248956
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2025-03-31,3230.5143100564014
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2025-04-30,3232.791337980555
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2025-05-31,3242.4672214733023
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2025-06-30,3242.387149423763
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2025-07-31,3231.3624190855307
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2025-08-31,3205.174035271923
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2025-09-30,3185.185142048425
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2025-10-31,3175.0518859430376
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2025-11-30,3202.603332683499
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2025-12-31,3237.841566509745
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2026-01-31,3272.7966786932147
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2026-02-28,3281.298687399081
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2026-03-31,3294.611507302093
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2026-04-30,3310.150366141739
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2026-05-31,3329.731710110703
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2026-06-30,3332.266440371249
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2026-07-31,3318.950294626973
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2026-08-31,3284.8693994011073
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2026-09-30,3246.3251466321863
+2045,80,Suffolk County,county,MA,MA,"Boston-Cambridge-Newton, MA-NH",25,025,2026-10-31,3236.1782285987315
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2021-01-31,1878.2519805177055
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2021-02-28,1874.2888620084195
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2021-03-31,1892.827805603706
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2021-04-30,1878.3243659591271
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2021-05-31,1901.090497118878
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2021-06-30,1908.6967298976788
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2021-07-31,1953.458890426055
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2021-08-31,1950.2293887363935
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2021-09-30,1960.965328234673
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2021-10-31,1945.476203083093
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2021-11-30,1972.3286962004145
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2021-12-31,1978.7472647641716
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2022-01-31,1996.865707693843
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2022-02-28,1986.126978270482
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2022-03-31,1982.7667853657276
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2022-04-30,1992.5920241581568
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2022-05-31,2023.3673812348152
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2022-06-30,2060.813193442378
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2022-07-31,2091.80351464231
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2022-08-31,2089.836289747901
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2022-09-30,2103.3898435861274
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2022-10-31,2119.826061615469
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2022-11-30,2143.7688162938875
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2022-12-31,2146.5074152761977
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2023-01-31,2150.8828222093243
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2023-02-28,2138.913302234936
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2023-03-31,2143.89592702474
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2023-04-30,2138.1952333346812
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2023-05-31,2153.0478034553194
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2023-06-30,2175.165855007931
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2023-07-31,2201.762083302792
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2023-08-31,2224.0861816517713
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2023-09-30,2248.267233429005
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2023-10-31,2246.309228527822
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2023-11-30,2248.879961815127
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2023-12-31,2222.2990753292956
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2024-01-31,2236.823319829103
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2024-02-29,2263.3849793329427
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2024-03-31,2312.642282543553
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2024-04-30,2324.322254391931
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2024-05-31,2331.317823511207
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2024-06-30,2336.3671721136484
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2024-07-31,2352.9173509806533
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2024-08-31,2371.9754027334425
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2024-09-30,2373.0810465698432
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2024-10-31,2374.8158287125752
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2024-11-30,2374.912520734264
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2024-12-31,2404.087175791358
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2025-01-31,2433.9351232059994
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2025-02-28,2459.6599336034747
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2025-03-31,2485.8859136192077
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2025-04-30,2505.5694068442604
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2025-05-31,2504.4911785887466
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2025-06-30,2488.0379308844317
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2025-07-31,2495.4981578336015
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2025-08-31,2518.2745425953863
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2025-09-30,2516.884300884196
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2025-10-31,2498.0271739567215
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2025-11-30,2495.4862031425987
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2025-12-31,2520.328324860471
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2026-01-31,2561.3681170872724
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2026-02-28,2542.408731949491
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2026-03-31,2538.4874141509326
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2026-04-30,2518.054328887428
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2026-05-31,2543.9132422599237
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2026-06-30,2547.5296753248813
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2026-07-31,2564.8549252507064
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2026-08-31,2556.2629080425622
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2026-09-30,2579.2755881694643
+2511,143,Richmond County,county,NY,NY,"New York-Newark-Jersey City, NY-NJ-PA",36,085,2026-10-31,2596.0075814223997
